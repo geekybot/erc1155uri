@@ -1,0 +1,9 @@
+{
+  "name": "NY Tokens",
+  "description": "NY times tokens.",
+  "localization": {
+    "uri": "ipfs://QmWS1VAdMD353A6SDk9wNyvkT14kyCiZrNDYAad4w1tKqT/{locale}.json",
+    "default": "en",
+    "locales": ["en", "es", "fr"]
+  }
+}
